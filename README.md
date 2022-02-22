@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://github.com/Pedro-oMaisBonito">
-    <img align="center" alt="Gon-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/7MfxGtzr1V5gtptLxc/giphy.gif">
-    <img align="center" alt="Gon-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/kjoSyTWGhum8Ovzbup/giphy.gif">
-    <img align="center" alt="Gon-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/cIUyU76s3lXubJklcq/giphy.gif">
+    <img align="center" alt="Fubuki-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/7MfxGtzr1V5gtptLxc/giphy.gif">
+    <img align="center" alt="Bills-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/kjoSyTWGhum8Ovzbup/giphy.gif">
+    <img align="center" alt="GokuBlack-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/cIUyU76s3lXubJklcq/giphy.gif">
+    <img align="center" alt="Ichigo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qHWP2pXgsZIaN79WNX/giphy.gif">
+
     </div>
 
 <div align="center">
