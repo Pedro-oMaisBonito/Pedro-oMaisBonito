@@ -1,4 +1,4 @@
-# 🌌 é, sou eu! ☄️
+# 🌌☄️
 
 <div align="center">
   <a href="https://github.com/Pedro-oMaisBonito">
@@ -13,10 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-oMaisBonito&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-#### 🔷 Oi, meu nome é Pedro e esses sãos os meus repositórios no github! 
-#### 🔷 Aqui tem uns códigos mequetrefes! 
-#### 🔷 Sou de 2004, ou seja tenho this.year - born.year = 18. 
-#### 🔷 Atualmente estou aprendendo Kotlin para desenvolvimento mobile!
+#### 🔷 Lindo de bonito!
   
 <img align="center" alt="Pedro-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
